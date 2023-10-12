@@ -107,3 +107,171 @@ making good progress, it's funny that's only 4.5 minutes of video lmao
 
 hmm this is interesting  `"amos".len()` equal to `str::len("amos")`
 
+`struct`
+
+always `structin` dat ass, you be so sick and f'n tired... `structin` dat ass
+
+ooh lightweight new type mf'n YZAK!
+
+ehh let me research this
+
+example I see is
+
+```
+struct Number {
+  odd: bool,
+  value: i32,
+}
+```
+
+I guess that's just made up
+
+```
+struct Human {
+  legs: true,
+  arms: true,
+  wings: false,
+  name: String
+}
+```
+
+idk
+
+oh yeah, names and types of the pieces of data, cool
+
+12:00 AM
+
+alright please Jacob finish it
+
+match `_` is catch all/default
+
+ooh it's like a prototype in JavaScript
+
+this thing
+
+```
+impl Number {
+  fn is_positive...
+}
+```
+
+cool
+
+here we go immutability, okay use he `mut` in front of the variable
+
+oh man... generic typing
+
+hmm generic structs same "inner thing" types
+
+`let mut v1 = Vec::new()` heap-allocated array
+
+interesting the type is determined by what you push into it
+
+`v1.push(bool)`
+
+hmm seen this before but yeah `let v1 = vec![1, 2, 3];`
+
+`!` is macro? eg. `name![]`
+
+oh sh... `println!` now I see, I was blind but now I see
+
+12:09 AM
+
+`panic!` (at the disco) aha someone else had this idea nice
+
+omg wtf is this...
+
+`Some` 
+
+`None`
+
+variants of enum
+
+holy f
+
+https://stackoverflow.com/a/24772148/2710227
+
+can contain something or nothing and yeah above did talk about `Option`
+
+alright I guess TL;DR is keep this in mind if you think something will fail
+
+`unwrap` gets the value of the complex type
+
+https://stackoverflow.com/a/71231484/2710227
+
+Oh damn okay `None`` and `Some`` are in `Option`
+
+Ahh nice `Result` similar but `Ok` vs. `Err`
+
+functions that can fail typically return a result okay
+
+damn I don't understand this
+
+```
+let s1 = str::from_utf8(...)
+```
+
+`valid_up_to`
+
+man this stuff is hard to read, can my smooth brain handle it, it's like TypeScript I still have that cognitive overhead reading it
+
+"converts a slice of bytes into a string slice..."
+
+it's part of a string okay
+
+"if you want to panic in case of failure, you can unwrap"
+
+`.expect` for custom error message
+
+unwrapping the value inside a result if it's okay or returning an error
+
+`let s = str::from_utf8(melon)?;` it's the question mark
+
+12:25 AM
+
+holy sh I'm still not done... this is so dense
+
+watch me turn $75K into $0 baby let's goooooooo
+
+whoa `1..` will go from 1 to infinity damn
+
+range iterator `(0..).contains(&100)`
+
+`(..=20)` 20 or less than 20 huh
+
+contains check that's cool
+
+oh nice, vector loop
+
+```
+  for i in vec![52, 49, 21] {
+    ...
+  }
+```
+
+and the string interpolation `println!("huh {}", i)`
+
+this is a slice
+
+`&[52, 49, 21]`
+
+"unicode scalar value" damn boy... direction no size what is that
+
+"single number or value" hmm
+
+whoa this is nice
+
+```
+  .filter(|c| c.is_lowercase())
+  .flat_map(|c| c.to_uppercase())
+```
+
+reduces the source array then makes a new array damn.... cool bracket location threw me off alright nice
+
+`cargo build`
+
+traits shared behavior huh
+
+I seent that last time I reviewed OOP
+
+alright this was good
