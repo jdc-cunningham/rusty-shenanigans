@@ -1,3 +1,15 @@
+10/17/2023
+
+10:51 PM
+
+I'm pretty spent today and spent the remainder of my mental energy watching tv... so...
+
+I did come up with something more tangible, back to the classics, a CLI CRUD app
+
+that'll get me to start writing rust
+
+---
+
 10/16/2023
 
 11:13 PM
@@ -65,6 +77,8 @@ wait a minute... (Independence Day chess scene)
 12:01 PM
 
 I so sorry, I will revisit another time
+
+---
 
 10/12/2023
 
