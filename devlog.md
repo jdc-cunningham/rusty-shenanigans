@@ -24,6 +24,14 @@ omg I got sidetracked again damn
 
 okay `&` is a reference there's also `*` to dereference hmm
 
+12:12 AM
+
+brief break
+
+I think I can make like a CLI TODO list that would be good because I need to store shit, delete by id, etc..., make an array of strings, manipulate or an object
+
+
+
 ---
 
 10/17/2023
