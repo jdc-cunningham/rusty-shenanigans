@@ -1,3 +1,31 @@
+10/18/2023
+
+10:48 PM
+
+Please Jacob do it
+
+hell yeah babyyyyyy hello world
+
+I'm trying to make an "API" for like a note app, but it's just in memory
+
+just to flex my code skills
+
+it's like a text rpg game
+
+11:20 PM
+
+omg... my ADHD brain man, turn off social media
+
+get prompt, that's what I want, then spit it back out
+
+11:47 PM
+
+omg I got sidetracked again damn
+
+okay `&` is a reference there's also `*` to dereference hmm
+
+---
+
 10/17/2023
 
 10:51 PM
