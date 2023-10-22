@@ -24,6 +24,18 @@ I was thinking I could do the CLI thing which has API interfaces to my local RPi
 
 that would be a useful/familiar ground thing to learn Rust with
 
+20:59 PM
+
+I'm watching tv I will write something though, probably as I cook now, 55% charge
+
+21:18 PM
+
+having import issues with a crate, trying to use chrono
+
+9:38 PM
+
+lol I can't get past this chrono unresolved...
+
 ---
 
 10/18/2023
