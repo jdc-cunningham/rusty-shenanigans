@@ -1,3 +1,43 @@
+10/22/2023
+
+1:00 PM
+
+back on but on main, big computer
+
+1:03 PM
+
+yeah I've been stuck on this trying to use chrono
+
+made a cargo file didn't work
+
+tried another way of importing
+
+why does even the doc code not work lol ugh
+
+1:08 PM
+
+my lizard brain wants to scream, any code I try won't compile lol
+
+code from the docs or SO
+
+1:13 PM
+
+holy s... okay I had to use `cargo cmd...` not the compiler
+
+https://stackoverflow.com/a/60519381/2710227
+
+f me man
+
+1:16 PM
+
+omg there we go... got the release going too nice
+
+https://stackoverflow.com/a/60947511/2710227
+
+okay so all the stuff will work just have to use cargo to do stuff not rust compiler
+
+
+
 10/21/2023
 
 ugh... lost my git history
