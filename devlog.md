@@ -1,3 +1,17 @@
+10/21/2023
+
+ugh... lost my sl history
+
+I'm doing this on an Asus C100P Chromebook running Xenial XFCE on an SD Card on VS Code
+
+I was able to get hello world running. VS Code file discovery is slow
+
+I keep accidentally clicking somewhere I think because my thumb keeps grazing the touchpad
+
+
+
+---
+
 10/18/2023
 
 10:48 PM
