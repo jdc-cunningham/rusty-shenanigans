@@ -1,6 +1,6 @@
 10/21/2023
 
-ugh... lost my sl history
+ugh... lost my git history
 
 I'm doing this on an Asus C100P Chromebook running Xenial XFCE on an SD Card on VS Code
 
@@ -8,7 +8,21 @@ I was able to get hello world running. VS Code file discovery is slow
 
 I keep accidentally clicking somewhere I think because my thumb keeps grazing the touchpad
 
+8:21 PM
 
+geez what a waste of time using git ssh over git
+
+I don't have a battery meter looks like
+
+8:26 PM
+
+alright added a battery icon to my panel
+
+8:48 PM
+
+I was thinking I could do the CLI thing which has API interfaces to my local RPis that hit the web eg. google spreadsheet
+
+that would be a useful/familiar ground thing to learn Rust with
 
 ---
 
