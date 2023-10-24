@@ -36,7 +36,19 @@ damn it... getting distracted bro
 
 I'm stuck trying to make a string into an array lol
 
+every time I edit it, it just gets worse lmao (the red suigglies)
 
+10:36 PM
+
+omg finally... no more red
+
+10:40 PM
+
+ahh... gotta split it out more
+
+10:47 PM
+
+holy f can't compare two strings
 
 10/22/2023
 

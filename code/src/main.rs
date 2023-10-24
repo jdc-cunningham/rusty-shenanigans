@@ -2,6 +2,7 @@
 use std::io;
 use chrono;
 use std::collections::HashMap;
+use std::str;
 
 fn main() {
   let responses = HashMap::from([
@@ -9,12 +10,22 @@ fn main() {
   ]);
 
   // https://stackoverflow.com/a/57708129
-  let date_parts: Vec<&str> = chrono::Local::now().to_string().split("T").collect::<Vec<&str>>();
-  println!("CLI Buddy v0.0.0 - {:?}", date_parts[0]);
+  let datetime: String = chrono::Local::now().to_string();
+  let collection: Vec<&str> = datetime.split("T").collect();
+
+  println!("Home v0.0.0 - date {:?}", collection[0]);
+
   let mut msg = String::new();
 
   io::stdin().read_line(&mut msg).expect("error: unable to read user input");
-  println!("{}", msg);
+
+  let dev_str: String = String::from("devices");
+
+  if msg == dev_str {
+    println!("{}", responses["devices"]);
+  } else {
+    println!("Unknown command");
+  }
 }
 
 // 
