@@ -1,3 +1,43 @@
+10/23/2023
+
+7:18 PM
+
+I have a headache right now but I did figure out what I want to make
+
+It's pretty much a home bot, interfaces with all the random crap I have like my home camera, anemometer, different pis in the house on same network
+
+The UI eventually will be ReactJS eg. Tauri but I'll focus on the backend stuff/Rust
+
+10:00 PM
+
+I'm going to start... silence
+
+I will achieve something
+
+10:02 PM
+
+alright silence
+
+10:05 PM
+
+oh here we go, hash browns baby
+
+`const` has to have types
+
+`::` path separator, crates, modules and items
+
+10:14 PM
+
+ahh... let can't be used in global scope
+
+10:31 PM
+
+damn it... getting distracted bro
+
+I'm stuck trying to make a string into an array lol
+
+
+
 10/22/2023
 
 1:00 PM
@@ -36,7 +76,13 @@ https://stackoverflow.com/a/60947511/2710227
 
 okay so all the stuff will work just have to use cargo to do stuff not rust compiler
 
+3:06 PM
 
+I have lost motivation, briefly did something else for a freelance client but idk...
+
+I want to make something but not sure what, so much hurdle too for something I can just sh out with JS
+
+I'm not sure if I want an actual terminal dependency or make one but with web eg. Tauri
 
 10/21/2023
 
