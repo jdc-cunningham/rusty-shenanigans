@@ -11,9 +11,9 @@ fn main() {
 
   // https://stackoverflow.com/a/57708129
   let datetime: String = chrono::Local::now().to_string();
-  let collection: Vec<&str> = datetime.split("T").collect();
+  let collection: Vec<&str> = datetime.split(" ").collect();
 
-  println!("Home v0.0.0 - date {:?}", collection[0]);
+  println!("Home v0.0.0 - {}", collection[0]);
 
   let mut msg = String::new();
 
@@ -21,7 +21,7 @@ fn main() {
 
   let dev_str: String = String::from("devices");
 
-  if msg == dev_str {
+  if msg.trim() == dev_str {
     println!("{}", responses["devices"]);
   } else {
     println!("Unknown command");

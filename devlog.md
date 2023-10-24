@@ -50,6 +50,12 @@ ahh... gotta split it out more
 
 holy f can't compare two strings
 
+oh damn trailing new line nice
+
+https://stackoverflow.com/a/38171882/2710227
+
+good god this was so hard lmao and it sucks!
+
 10/22/2023
 
 1:00 PM
