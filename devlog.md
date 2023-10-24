@@ -75,7 +75,7 @@ $ cargo run
     Finished dev [unoptimized + debuginfo] target(s) in 0.33s
      Running `target\debug\code.exe`
 Home v0.0.0 - 2023-10-23
-devices
+devices (typed in)
 pi zero w, pi 2b
 ```
 
