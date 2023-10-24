@@ -64,6 +64,25 @@ https://docs.rs/ctrlc/latest/ctrlc/
 
 but not going to be a CLI in the end, will have a front end
 
+11:00 PM
+
+this is the output
+
+```
+Green@DESKTOP-OUAAKTM MINGW64 ~/projects/rusty-shenanigans/code (master)
+$ cargo run
+   Compiling code v0.1.0 (C:\Users\Green\projects\rusty-shenanigans\code)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.33s
+     Running `target\debug\code.exe`
+Home v0.0.0 - 2023-10-23
+devices
+pi zero w, pi 2b
+```
+
+oh shit that makes sense, the major, minor, feature or whatever release numbering
+
+---
+
 10/22/2023
 
 1:00 PM
@@ -109,6 +128,8 @@ I have lost motivation, briefly did something else for a freelance client but id
 I want to make something but not sure what, so much hurdle too for something I can just sh out with JS
 
 I'm not sure if I want an actual terminal dependency or make one but with web eg. Tauri
+
+---
 
 10/21/2023
 

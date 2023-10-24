@@ -13,7 +13,7 @@ fn main() {
   let datetime: String = chrono::Local::now().to_string();
   let collection: Vec<&str> = datetime.split(" ").collect();
 
-  println!("Home v0.0.0 - {}", collection[0]);
+  println!("Home v0.1.0 - {}", collection[0]);
 
   let mut msg = String::new();
 
