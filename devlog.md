@@ -56,6 +56,14 @@ https://stackoverflow.com/a/38171882/2710227
 
 good god this was so hard lmao and it sucks!
 
+10:52 PM
+
+I could use this
+
+https://docs.rs/ctrlc/latest/ctrlc/
+
+but not going to be a CLI in the end, will have a front end
+
 10/22/2023
 
 1:00 PM
