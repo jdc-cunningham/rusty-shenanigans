@@ -1,3 +1,33 @@
+10/24/2023
+
+10:19 PM
+
+I don't have too much time today
+
+I want to use some kind of http client/library to pull from a local API
+
+10:26 PM
+
+top of the list is hyper... let's go
+
+10:31 PM
+
+hmm... this tokio runtime
+
+reqwest also uses it
+
+mmhmm this is a good client... (Pulp Fiction reference)
+
+looking at ureq, me likey
+
+10:34 PM
+
+holy sh it just works, hell yeah
+
+I'm down with this, I am looking into the runtime/async thing though because that is a basic need
+
+
+
 10/23/2023
 
 7:18 PM
