@@ -26,7 +26,15 @@ holy sh it just works, hell yeah
 
 I'm down with this, I am looking into the runtime/async thing though because that is a basic need
 
+https://stackoverflow.com/questions/71357431/why-are-asynchronous-runtimes-like-tokio-necessary
 
+ABI I'm learning new acronyms man application binary interface mmm
+
+10:56 PM
+
+distracted, I gotta learn some other stuff for tomorrow
+
+gotta read up on async in rust
 
 10/23/2023
 
