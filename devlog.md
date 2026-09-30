@@ -1,4 +1,16 @@
-10/24/2023
+### 09/29/2026
+
+2023? FAHHHHH!!!!
+
+I want to make a CLI-based finance app so time to try and learn rust again
+
+Going to go through the docs
+
+https://doc.rust-lang.org/rust-by-example/
+
+---
+
+### 10/24/2023
 
 10:19 PM
 
@@ -36,7 +48,9 @@ distracted, I gotta learn some other stuff for tomorrow
 
 gotta read up on async in rust
 
-10/23/2023
+---
+
+### 10/23/2023
 
 7:18 PM
 
@@ -121,7 +135,7 @@ oh shit that makes sense, the major, minor, feature or whatever release numberin
 
 ---
 
-10/22/2023
+### 10/22/2023
 
 1:00 PM
 
@@ -169,7 +183,7 @@ I'm not sure if I want an actual terminal dependency or make one but with web eg
 
 ---
 
-10/21/2023
+### 10/21/2023
 
 ugh... lost my git history
 
@@ -209,7 +223,7 @@ lol I can't get past this chrono unresolved...
 
 ---
 
-10/18/2023
+### 10/18/2023
 
 10:48 PM
 
@@ -245,7 +259,7 @@ I think I can make like a CLI TODO list that would be good because I need to sto
 
 ---
 
-10/17/2023
+### 10/17/2023
 
 10:51 PM
 
@@ -257,7 +271,7 @@ that'll get me to start writing rust
 
 ---
 
-10/16/2023
+### 10/16/2023
 
 11:13 PM
 
@@ -327,7 +341,7 @@ I so sorry, I will revisit another time
 
 ---
 
-10/12/2023
+### 10/12/2023
 
 12:38 AM
 
