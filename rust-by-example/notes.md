@@ -1,3 +1,21 @@
+### 10/24/2026
+
+8:46 PM
+
+Alright... I'm pretty mentally drained, put some work in on other projects/videos
+
+But will do my learning for today
+
+9:03 PM
+
+I decided to write notes per lesson so I don't have to open different tabs.
+
+Also been coming up with a design for the finance app.
+
+Thinking it'll have an interactive entry thing based on an existing list where it just asks you what is the balance for some account.
+
+---
+
 ### 10/23/2026
 
 9:51 PM

@@ -1,0 +1,15 @@
+fn main() {
+    struct User {
+	active: bool,
+	username: String
+    }
+
+    enum IpAddrKind {
+	V4,
+	V6
+    }
+
+    const THING: u32 = 0xABAD1DEA;
+
+    static VEC: Vec<u32> = vec![];
+}
